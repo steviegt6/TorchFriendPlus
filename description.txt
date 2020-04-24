@@ -1,0 +1,41 @@
+This mod is simply an addon to Valkyrienyanko's mod "Torch Friend." Though this mod doesn't need Torch Friend, this is intended to be an addon to it, so using some basic coding that I totally didn't ask for on help on.
+
+[c/1C1C1C:Additions]
++ More supported blocks for torches!
++ "Discount," where if you have enough of a certain block, the amount needed to craft the torch will lower by 5 for the first added item.
++ Crafting recipes for uncraftable light pets.
+
+i.e.:
+25 dirt blocks = 1 torch.
+45 = 2 torches.
+
+This just means that for the second torch, it gets subtracted by 5 blocks, a.k.a it only increases by 15 blocks.
+
+===========================================
+
+[c/1C1C1C:Github]
+
+https://github.com/Steviegt6
+
+===========================================
+
+[c/151515:v1.0 Initial Release]
+Initial release. The base for the mod. Added new items that can be used to craft torches, just like the original Torch Friend mod.
+
+[c/151515:v1.0.1 Icon]
+Icon added.
+
+[c/151515:v1.0.2 Description Fixed]
+Miscolored part of the description was fixed.
+
+[c/151515:v1.1.0 Light Pets]
+Crafting recipes for uncraftable light pets.
+
+[c/151515:v1.1.1]
+Squashed a bug.
+
+[c/151515:v1.2.0]
+Updated to the latest version of tModLoader.
+
+[c/151515:v1.3.0]
+Fixed some stuff and added many new blocks.
